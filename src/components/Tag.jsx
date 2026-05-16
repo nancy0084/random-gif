@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import useGif from "../hooks/useGif";
+import useGif from "../hooks/useGif.js";
 import Spinner from "./Spinner";
 
 
